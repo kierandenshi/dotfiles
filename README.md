@@ -1,1 +1,3 @@
 # dotfiles
+
+Common project dotfiles.

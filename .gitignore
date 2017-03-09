@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.log.*
+node_modules
+dist
+docs
+reports
+coverage
+screenshots
+.nyc_output
